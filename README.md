@@ -12,3 +12,4 @@ comment trying
 Testing Transition Triggers
 
 Add Comment in jira
+add auto comment in jira
